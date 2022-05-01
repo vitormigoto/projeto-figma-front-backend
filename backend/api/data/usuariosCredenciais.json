@@ -1,0 +1,16 @@
+{
+    "usuariosCredencial": {
+        "data": [
+            {
+                "id": "1",
+                "user": "vitormigoto",
+                "senha":"12345"
+            },
+            {
+                "id": "2",
+                "user": "joaocarlos",
+                "senha":"123"
+            }
+        ]
+    }
+}
